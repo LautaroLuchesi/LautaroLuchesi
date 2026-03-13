@@ -1,4 +1,5 @@
 # Hola, soy Lautaro 👋
+📊 Data Analysis | Python • SQL • Power BI
 
 Soy estudiante de programación enfocado en **análisis de datos**.
 
