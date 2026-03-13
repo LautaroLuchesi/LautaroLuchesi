@@ -10,7 +10,7 @@ Me interesa transformar datos en información útil utilizando herramientas como
 - Power BI
 - Visualización de datos
 
-Actualmente estoy construyendo proyectos para desarrollar habilidades en análisis de datos y business intelligence.
+Actualmente desarrollo proyectos de análisis de datos utilizando Python, SQL y Power BI.
 
 ---
 
