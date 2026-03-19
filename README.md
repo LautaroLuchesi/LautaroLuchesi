@@ -1,62 +1,100 @@
-# Hola, soy Lautaro 👋
-📊 Data Analysis | Python • SQL • Power BI
+# Hola, soy Lautaro Luchesi 👋
 
-Soy estudiante de programación enfocado en **análisis de datos**.
+📊 **Data Analyst en formación**  
+Python • SQL • Pandas • Power BI
 
-Me interesa transformar datos en información útil utilizando herramientas como:
+Soy estudiante de programación en UTN enfocado en **análisis de datos**.  
+Me interesa trabajar con datos para **transformarlos en información útil que ayude a tomar decisiones**.
 
-- Python
-- Pandas
-- SQL
-- Power BI
-- Visualización de datos
-
-Actualmente desarrollo proyectos de análisis de datos utilizando Python, SQL y Power BI.
+Actualmente desarrollo proyectos de análisis de datos utilizando **Python, SQL y herramientas de visualización**.
 
 ---
 
-## 📊 Proyectos
+# 🚀 Proyectos Destacados
 
-### Análisis de Ventas — Northwind
-Proyecto de análisis de datos utilizando SQL, Python y Power BI.
+## 📊 Análisis de Ventas — Northwind
 
-Incluye:
+Proyecto de análisis de datos utilizando **SQL, Python y Power BI** sobre la base de datos Northwind.
 
-- Consultas SQL
-- Análisis con Python y Pandas
+El objetivo fue analizar el rendimiento de ventas, identificar tendencias y construir visualizaciones para apoyar la toma de decisiones.
+
+**Incluye:**
+
+- Consultas SQL para extracción y agregación de datos
+- Análisis exploratorio con Python y Pandas
 - Visualización con Matplotlib
-- Panel interactivo en Power BI
+- Dashboard interactivo en Power BI
 
-👉 https://github.com/LautaroLuchesi/sales-analysis-northwind
+🔗 Proyecto:  
+https://github.com/LautaroLuchesi/sales-analysis-northwind
 
+---
 
-### Segmentación de Clientes — Marketing Dataset
-Proyecto de análisis de comportamiento de clientes utilizando Python y Machine Learning.
+## 📊 Segmentación de Clientes — Marketing Dataset
 
-Se aplicó análisis **RFM (Recency, Frequency, Monetary)** y el algoritmo **K-Means** para identificar distintos segmentos de clientes y proponer estrategias de marketing basadas en datos.
+Proyecto de **segmentación de clientes** utilizando Python y Machine Learning.
 
-Incluye:
+Se aplicó el modelo **RFM (Recency, Frequency, Monetary)** y el algoritmo **K-Means** para identificar distintos perfiles de clientes y proponer estrategias de marketing basadas en datos.
+
+**Incluye:**
 
 - Limpieza y preparación de datos con Pandas
-- Ingeniería de variables (gasto total y frecuencia de compra)
-- Visualización exploratoria con Matplotlib
-- Segmentación de clientes con K-Means
-- Validación del modelo con el método del codo
+- Ingeniería de variables
+- Análisis exploratorio de datos
+- Segmentación con K-Means
+- Evaluación del modelo con el método del codo
 
-👉 https://github.com/LautaroLuchesi/Segmentacion
-
----
-
-## 🛠 Tecnologías
-
-- Python  
-- SQL  
-- Pandas  
-- Power BI  
-- Git / GitHub
+🔗 Proyecto:  
+https://github.com/LautaroLuchesi/Segmentacion
 
 ---
 
-## 🎯 Objetivo
+## 📊 Limpieza y Análisis de Datos con SQL
 
-Desarrollarme como **Data Analyst**, aplicando herramientas de análisis y visualización de datos para resolver problemas reales.
+Proyecto enfocado en **calidad de datos y data cleaning** utilizando SQL.
+
+Se trabajó sobre un dataset con problemas comunes como valores nulos, duplicados e inconsistencias de formato.
+
+**Incluye:**
+
+- Exploración de calidad de datos
+- Limpieza y estandarización con SQL
+- Validación del dataset limpio
+- Análisis exploratorio de los datos
+
+🔗 Proyecto:  
+https://github.com/LautaroLuchesi/sql-data-cleaning-project
+
+---
+
+# 🛠 Tecnologías
+
+**Lenguajes y herramientas**
+
+- Python
+- SQL
+- Pandas
+- Power BI
+
+**Otros**
+
+- Git
+- GitHub
+- Análisis de datos
+- Data cleaning
+- Visualización de datos
+
+---
+
+# 🎯 Objetivo Profesional
+
+Mi objetivo es desarrollarme como **Data Analyst**, aplicando herramientas de análisis, limpieza y visualización de datos para resolver problemas reales y generar insights a partir de los datos.
+
+Actualmente continúo desarrollando proyectos para fortalecer mis habilidades en **Python, SQL, análisis de datos y visualización**.
+
+---
+
+# 📫 Contacto
+
+LinkedIn:  
+https://www.linkedin.com/in/lautaro-luchesi-1b5819329/
