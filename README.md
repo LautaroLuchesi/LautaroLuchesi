@@ -8,7 +8,8 @@ Me interesa trabajar con datos para **transformarlos en información útil que a
 
 Actualmente desarrollo proyectos de análisis de datos utilizando **Python, SQL y herramientas de visualización**.
 
-Además, cuento con experiencia en tareas administrativas y gestión de datos en entornos contables, trabajando con grandes volúmenes de información con precisión y consistencia.
+Además, cuento con experiencia en tareas administrativas y gestión de datos en entornos contables, trabajando con grandes volúmenes de información con precisión y eficiencia 
+
 ---
 
 # 🚀 Proyectos Destacados
