@@ -1,102 +1,173 @@
 # Hola, soy Lautaro Luchesi 👋
 
-📊 **Data Analyst en formación**  
-Python • SQL • Pandas • Power BI
+### Analista GTR | Data Analytics & Business Intelligence
 
-Soy estudiante de programación en UTN enfocado en **análisis de datos**.  
-Me interesa trabajar con datos para **transformarlos en información útil que ayude a tomar decisiones**.
+📊 Análisis de datos · 📈 Reporting · ⚙️ Automatización · 💻 Desarrollo
 
-Actualmente desarrollo proyectos de análisis de datos utilizando **Python, SQL y herramientas de visualización**.
+Soy estudiante de **Tecnicatura Universitaria en Programación (UTN)** y actualmente me desempeño como **Analista GTR**, trabajando con datos operativos para monitorear campañas, analizar KPIs y generar reportes orientados al seguimiento del desempeño.
 
-Además, cuento con experiencia en tareas administrativas y gestión de datos en entornos contables, trabajando con grandes volúmenes de información con precisión y eficiencia 
+Me interesa transformar datos provenientes de distintas fuentes en **información clara, útil y accionable para el negocio**, combinando análisis, visualización y automatización de procesos.
+
+Actualmente trabajo principalmente con **Google Sheets, Google Apps Script, SQL, Python y Power BI**, y continúo desarrollando mis conocimientos en programación y desarrollo de software.
 
 ---
 
-# 🚀 Proyectos Destacados
+## 💼 Experiencia actual
+
+### Analista GTR · GOUT
+
+Trabajo con información operativa de campañas de contact center, realizando:
+
+- Monitoreo en tiempo real de campañas e indicadores operativos.
+- Análisis de KPIs de ventas, conversión, productividad y presentismo.
+- Elaboración de reportes y dashboards en Google Sheets.
+- Análisis de resultados por campaña, turno, skill y asesor.
+- Limpieza, validación y preparación de datos.
+- Automatización de tareas y procesos mediante Google Apps Script.
+- Desarrollo de soluciones para visualización y consulta de información operativa.
+
+---
+
+# 🚀 Proyectos destacados
+
+## 📊 Análisis de Churn en Ecommerce
+
+Análisis de **200.000 registros** orientado a identificar patrones asociados al abandono de clientes.
+
+Se analizaron variables relacionadas con soporte al cliente, inactividad y comportamiento de compra para identificar segmentos con mayor riesgo de churn.
+
+**Incluye:**
+
+- Exploratory Data Analysis (EDA)
+- Limpieza y preparación de datos
+- Consultas SQL
+- Análisis de patrones de comportamiento
+- Dashboard interactivo en Power BI
+- KPIs y visualizaciones orientadas al negocio
+
+**Resultado destacado:** identificación de segmentos críticos con hasta **58,36% de churn**.
+
+🔗 [Ver proyecto](#)
+
+---
 
 ## 📊 Análisis de Ventas — Northwind
 
 Proyecto de análisis de datos utilizando **SQL, Python y Power BI** sobre la base de datos Northwind.
 
-El objetivo fue analizar el rendimiento de ventas, identificar tendencias y construir visualizaciones para apoyar la toma de decisiones.
+El objetivo fue analizar el rendimiento comercial, identificar tendencias y transformar los datos en indicadores útiles para la toma de decisiones.
 
 **Incluye:**
 
 - Consultas SQL para extracción y agregación de datos
 - Análisis exploratorio con Python y Pandas
-- Visualización con Matplotlib
+- Visualización de datos
+- Construcción de KPIs
 - Dashboard interactivo en Power BI
 
-🔗 Proyecto:  
-https://github.com/LautaroLuchesi/sales-analysis-northwind
+🔗 [Ver proyecto](https://github.com/LautaroLuchesi/sales-analysis-northwind)
 
 ---
 
-## 📊 Segmentación de Clientes — Marketing Dataset
+## 👥 Segmentación de Clientes
 
-Proyecto de **segmentación de clientes** utilizando Python y Machine Learning.
+Proyecto de segmentación utilizando **Python, Pandas y K-Means** para identificar distintos perfiles de clientes.
 
-Se aplicó el modelo **RFM (Recency, Frequency, Monetary)** y el algoritmo **K-Means** para identificar distintos perfiles de clientes y proponer estrategias de marketing basadas en datos.
+Se aplicó el modelo **RFM (Recency, Frequency, Monetary)** y técnicas de clustering para analizar el comportamiento de los clientes y generar segmentos con potencial aplicación comercial.
 
 **Incluye:**
 
-- Limpieza y preparación de datos con Pandas
-- Ingeniería de variables
-- Análisis exploratorio de datos
-- Segmentación con K-Means
-- Evaluación del modelo con el método del codo
+- Limpieza y preparación de datos
+- Feature Engineering
+- Análisis exploratorio
+- Construcción de variables RFM
+- Segmentación mediante K-Means
+- Evaluación mediante método del codo
+- Visualización de segmentos
 
-🔗 Proyecto:  
-https://github.com/LautaroLuchesi/Segmentacion
+🔗 [Ver proyecto](https://github.com/LautaroLuchesi/Segmentacion)
 
 ---
 
-## 📊 Limpieza y Análisis de Datos con SQL
+## 🧹 Limpieza y Análisis de Datos con SQL
 
-Proyecto enfocado en **calidad de datos y data cleaning** utilizando SQL.
+Proyecto enfocado en **calidad, limpieza y preparación de datos** utilizando SQL.
 
-Se trabajó sobre un dataset con problemas comunes como valores nulos, duplicados e inconsistencias de formato.
+Se trabajó sobre un dataset con problemas de calidad para transformarlo en una estructura más consistente y preparada para análisis posteriores.
 
 **Incluye:**
 
 - Exploración de calidad de datos
-- Limpieza y estandarización con SQL
-- Validación del dataset limpio
-- Análisis exploratorio de los datos
+- Identificación de valores nulos
+- Detección y eliminación de duplicados
+- Estandarización de datos
+- Validación de resultados
+- Preparación del dataset para análisis
 
-🔗 Proyecto:  
-https://github.com/LautaroLuchesi/sql-data-cleaning-project
+🔗 [Ver proyecto](https://github.com/LautaroLuchesi/sql-data-cleaning-project)
 
 ---
 
-# 🛠 Tecnologías
+# 🛠️ Tecnologías
 
-**Lenguajes y herramientas**
+### 📊 Data & BI
 
-- Python
 - SQL
+- SQLite
+- Python
 - Pandas
+- NumPy
 - Power BI
+- DAX
+- Análisis de datos
+- Visualización de datos
+- EDA
 
-**Otros**
+### ⚙️ Reporting & Automation
 
+- Google Sheets
+- Google Apps Script
+- Microsoft Excel
+- Reporting
+- Automatización de procesos
+- KPIs operativos
+- Botmaker
+
+### 💻 Development
+
+- HTML
+- CSS / SCSS
+- JavaScript
+- React
+- Java
 - Git
 - GitHub
-- Análisis de datos
-- Data cleaning
-- Visualización de datos
+- Visual Studio Code
 
 ---
 
-# 🎯 Objetivo Profesional
+# 📚 Actualmente
 
-Mi objetivo es desarrollarme como **Data Analyst**, aplicando herramientas de análisis, limpieza y visualización de datos para resolver problemas reales y generar insights a partir de los datos.
+Continúo formándome en programación y análisis de datos, con especial interés en:
 
-Actualmente continúo desarrollando proyectos para fortalecer mis habilidades en **Python, SQL, análisis de datos y visualización**.
+- Data Analytics
+- Business Intelligence
+- SQL
+- Python
+- Automatización
+- Visualización de datos
+- Desarrollo de soluciones orientadas al negocio
+
+Busco seguir creciendo profesionalmente en posiciones relacionadas con **Data Analytics, BI, Reporting y automatización de procesos**.
 
 ---
 
 # 📫 Contacto
 
-LinkedIn:  
+📧 **Email:** lautaroluchesi00@gmail.com
+
+💼 **LinkedIn:**  
 https://www.linkedin.com/in/lautaro-luchesi-1b5819329/
+
+🐙 **GitHub:**  
+https://github.com/LautaroLuchesi
